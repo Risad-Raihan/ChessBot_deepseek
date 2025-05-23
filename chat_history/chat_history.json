@@ -42,5 +42,20 @@
         "timestamp": "2025-05-23T21:36:38.477417"
       }
     ]
+  },
+  "Moumi": {
+    "chess": [
+      
+      {
+        "role": "user",
+        "content": "how does the knight move in chess",
+        "timestamp": "2025-05-23T21:55:34.893118"
+      },
+      {
+        "role": "assistant",
+        "content": "Because the knight moves in L-shape like a horse, so there are no attacks from left or right.",
+        "timestamp": "2025-05-23T21:56:42.913760"
+      }
+    ]
   }
 }
