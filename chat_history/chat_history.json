@@ -1,0 +1,46 @@
+{
+  "Risad": {
+    "opening": [
+      {
+        "role": "user",
+        "content": "how do you castle in chess",
+        "timestamp": "2025-05-23T21:30:08.175176"
+      },
+      {
+        "role": "assistant",
+        "content": "You can castle by moving the king to the middle of the board and then taking the pawns in the center row and moving them to the corner of the board.",
+        "timestamp": "2025-05-23T21:31:10.356621"
+      },
+      {
+        "role": "user",
+        "content": "what is English opening?",
+        "timestamp": "2025-05-23T21:32:02.864770"
+      },
+      {
+        "role": "assistant",
+        "content": "Then you take the Bishop from\nthe second row and place it at the square where you want it.\nNext you take the Rook from the third row and place it at the\nsquare where you want it.",
+        "timestamp": "2025-05-23T21:33:06.730863"
+      },
+      {
+        "role": "user",
+        "content": "what are some historical chess games?",
+        "timestamp": "2025-05-23T21:33:37.507497"
+      },
+      {
+        "role": "assistant",
+        "content": "In my opinion, there are two main types of chess games.",
+        "timestamp": "2025-05-23T21:34:43.095794"
+      },
+      {
+        "role": "user",
+        "content": "tell me about promotion",
+        "timestamp": "2025-05-23T21:36:04.466904"
+      },
+      {
+        "role": "assistant",
+        "content": "There are three different types of promotion.",
+        "timestamp": "2025-05-23T21:36:38.477417"
+      }
+    ]
+  }
+}

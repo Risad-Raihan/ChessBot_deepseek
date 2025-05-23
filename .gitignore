@@ -40,7 +40,6 @@ Thumbs.db
 
 # Project specific
 vector_store/
-chat_history/
 *.model
 *.bin
 *.safetensors
