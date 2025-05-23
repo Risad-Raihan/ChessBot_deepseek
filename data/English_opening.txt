@@ -1,0 +1,20 @@
+The English Opening, which starts with 1.c4, is the fourth most commonly played opening move in chess. By playing this move, White allows the queen to move freely and also discourages Black from responding with 1...d5. Additionally, White ensures that the c-pawn will not be blocked behind a knight on c3. The resulting positions often resemble those that arise from 1.d4 openings rather than 1.e4 openings, and the move d4 is frequently played later on.
+
+While this opening is not as sharp as 1.e4 or 1.d4, it is still effective in controlling the d5 square and is highly flexible, allowing for easy transpositions into other openings.
+
+Black's responses
+1...Nf6 or 1...g6 are likely to transpose into an Indian Defence.
+1...e5 is a "reversed" Sicilian Defence.
+1...e6 will probably end up in a Queen's Gambit Declined. This is known as the Agincourt Defense. However, if White plays 2.d4 then Black plays 2...Nf6, it is a typical Indian game (1.d4 Nf6 2.c4 e6 is the normal order.)
+1...c5 – most pure English lines come from the Symmetrical Variation and are quite hard to play and to understand.
+1...c6 will usually either transpose into the Caro-Kann Defence or the Slav Defence.
+1...f5, the Anglo-Dutch Defence, leads to sharp tactical lines for Black, but can open a powerful kingside attack. This is likely to transpose into the regular Dutch Defense after 2.d4.
+1...b6 will in all likelihood transpose into the English Defence.
+1...d5 is seldom played but may transpose into the Queen's Gambit or the Réti Opening.
+1...b5 normally gives good chances for Black, even though the Halibut Gambit is considered unsound at the professional level.
+1...g5, the Myers Defence, gives White a small advantage.
+Statistics
+Approximately chances
+White win 37%, Draw 34%, Black win 29%.
+Estimated next move popularity
+Nf6 28%, e5 23%, e6 13%, c5 12%, g6 8%, c6 7%, f5 3%. Other moves less than 2%.

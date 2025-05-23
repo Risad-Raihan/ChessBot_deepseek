@@ -1,0 +1,305 @@
+The rules of chess (also known as the laws of chess) govern the play of the game of chess. Chess is a two-player abstract strategy board game. Each player controls sixteen pieces of six types on a chessboard. Each type of piece moves in a distinct way. The object of the game is to checkmate the opponent's king; checkmate occurs when a king is threatened with capture and has no escape. A game can end in various ways besides checkmate: a player can resign, and there are several ways a game can end in a draw.
+
+While the exact origins of chess are unclear, modern rules first took form during the Middle Ages. The rules continued to be slightly modified until the early 19th century, when they reached essentially their current form. The rules also varied somewhat from region to region. Today, the standard rules are set by FIDE (Fédération Internationale des Échecs), the international governing body for chess. Slight modifications are made by some national organizations for their own purposes. There are variations of the rules for fast chess, correspondence chess, online chess, and Chess960.
+
+Besides the basic moves of the pieces, rules also govern the equipment used, time control, conduct and ethics of players, accommodations for physically challenged players, and recording of moves using chess notation. Procedures for resolving irregularities that can occur during a game are provided as well.
+
+Initial setup
+a	b	c	d	e	f	g	h	
+8	
+a8 black rookb8 black knightc8 black bishopd8 black queene8 black kingf8 black bishopg8 black knighth8 black rooka7 black pawnb7 black pawnc7 black pawnd7 black pawne7 black pawnf7 black pawng7 black pawnh7 black pawna2 white pawnb2 white pawnc2 white pawnd2 white pawne2 white pawnf2 white pawng2 white pawnh2 white pawna1 white rookb1 white knightc1 white bishopd1 white queene1 white kingf1 white bishopg1 white knighth1 white rook
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+Starting position
+Chess is played on a chessboard, a square board divided into a grid of 64 squares (eight-by-eight) of alternating color (similar to the board used in draughts).[1] Regardless of the actual colors of the board, the lighter-colored squares are called "light" or "white", and the darker-colored squares are called "dark" or "black". Sixteen "white" and sixteen "black" pieces are placed on the board at the beginning of the game. The board is placed so that a white square is in each player's near-right corner. Horizontal rows are called ranks, and vertical columns are called files.[2]
+
+Each player controls sixteen pieces:
+
+Piece	King	Queen	Rook	Bishop	Knight	Pawn
+Number of pieces	1	1	2	2	2	8
+Symbols	
+	
+	
+	
+	
+	
+
+At the beginning of the game, the pieces are arranged as shown in the diagram: for each side one king, one queen, two rooks, two bishops, two knights, and eight pawns. The pieces are placed, one per square, as follows:[3]
+
+Rooks are placed on the outside corners, right and left edge.
+Knights are placed immediately inside of the rooks.
+Bishops are placed immediately inside of the knights.
+The queen is placed on the central square of the same color of that of the piece: white queen on the white square and black queen on the black square.
+The king takes the vacant spot next to the queen.
+Pawns are placed one square in front of all of the other pieces.
+Popular mnemonics used to remember the setup are "queen on her own color" and "white on right". The latter refers to setting up the board so that the square closest to each player's right is white.[4]
+
+Gameplay
+White and black
+Main article: White and Black in chess
+Photo shows two men playing chess while two more look on.
+A game in a public park in Kyiv, using a chess clock
+The player controlling the white pieces is named "White"; the player controlling the black pieces is named "Black". White moves first, then players alternate moves. Making a move is required; it is not legal to skip a move, even when having to move is detrimental. Play continues until a king is checkmated, a player resigns, or a draw is declared, as explained below.[5] In addition, if the game is being played under a time control, a player who exceeds the time limit loses the game unless they cannot be checkmated.[6]
+
+The official chess rules do not include a procedure for determining who plays White. Instead, this decision is left open to tournament-specific rules (e.g. a Swiss system tournament or round-robin tournament) or, in the case of casual play, mutual agreement, in which case some kind of random choice such as flipping a coin can be employed. A common method is for one player to conceal a pawn of each color in either hand; the other player chooses a hand to open and receives the color of the piece that is revealed.[7]
+
+Movement
+Basic moves
+Moves of the king
+a	b	c	d	e	f	g	h	
+8	
+e6 white circlef6 white circleg6 white circlee5 white circlef5 white kingg5 white circlee4 white circlef4 white circleg4 white circle
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+Moves of a rook
+a	b	c	d	e	f	g	h	
+8	
+d8 white circled7 white circled6 white circlea5 white circleb5 white circlec5 white circled5 white rooke5 white circlef5 white circleg5 white circleh5 white circled4 white circled3 white circled2 white circled1 white circle
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+
+Moves of a bishop
+a	b	c	d	e	f	g	h	
+8	
+a8 white circleg8 white circleb7 white circlef7 white circlec6 white circlee6 white circled5 white bishopc4 white circlee4 white circleb3 white circlef3 white circlea2 white circleg2 white circleh1 white circle
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+Moves of the queen
+a	b	c	d	e	f	g	h	
+8	
+d8 white circleh8 white circlea7 white circled7 white circleg7 white circleb6 white circled6 white circlef6 white circlec5 white circled5 white circlee5 white circlea4 white circleb4 white circlec4 white circled4 white queene4 white circlef4 white circleg4 white circleh4 white circlec3 white circled3 white circlee3 white circleb2 white circled2 white circlef2 white circlea1 white circled1 white circleg1 white circle
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+
+Moves of a knight
+a	b	c	d	e	f	g	h	
+8	
+c6 white circlee6 white circleb5 white circlef5 white circled4 white knightb3 white circlef3 white circlec2 white circlee2 white circle
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+Moves of a pawn
+a	b	c	d	e	f	g	h	
+8	
+b7 black rookc7 white circled7 black rookc6 white pawne4 white circlee3 white circlee2 white pawn
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+The pawns can move to the squares in front of them (white dots). The pawn on c6 can also take either black rook.
+
+Each type of chess piece has its own method of movement. A piece moves to a vacant square except when capturing an opponent's piece.[8]
+
+Except for any move of the knight and castling, pieces cannot jump over other pieces. A piece is captured (or taken) when an attacking enemy piece replaces it on its square. The captured piece is thereby permanently removed from the game.[a] The king can be put in check but cannot be captured (see below).
+
+The king moves exactly one square adjacent to it. A special move with the king known as castling is allowed only once per player, per game (see below).
+A rook moves any number of vacant squares horizontally or vertically. It also is moved when castling.
+A bishop moves any number of vacant squares diagonally. (Thus a bishop can move to only light or dark squares, not both.)
+The queen moves any number of vacant squares horizontally, vertically, or diagonally.
+A knight moves to one of the nearest squares not on the same rank, file, or diagonal. (This can be thought of as moving two squares horizontally then one square vertically, or moving one square horizontally then two squares vertically—i.e. in an "L" pattern.) The knight is not blocked by other pieces; it jumps to the new location.
+Pawns have the most complex rules of movement:
+A pawn moves straight forward one square, if that square is vacant. If it has not yet moved, a pawn also has the option of moving two squares straight forward, provided both squares are vacant. Pawns cannot move backwards.
+A pawn, unlike other pieces, captures differently from how it moves. A pawn can capture an enemy piece on either of the two squares diagonally in front of the pawn. It cannot move to those squares when vacant except when capturing en passant.
+The pawn is also involved in the two special moves en passant and promotion.[10]
+Castling
+Main article: Castling
+a	b	c	d	e	f	g	h	
+8	
+a8 black rooke8 black kinge1 white kingh1 white rook
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+Position of pieces before castling
+a	b	c	d	e	f	g	h	
+8	
+c8 black kingd8 black rookf1 white rookg1 white king
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+Positions of the king and rook after kingside (White) and queenside (Black) castling
+
+Castling consists of moving the king two squares towards a rook, then placing the rook on the other side of the king, adjacent to it. Castling is only permissible if all of the following conditions hold:[11]
+
+The king and rook involved in castling must not have previously moved;
+There must be no pieces between the king and the rook;
+The king may not currently be under attack, nor may the king pass through or end up in a square that is under attack by an enemy piece (though the rook is permitted to be under attack and to pass over an attacked square);
+The castling rook must be on the same rank as the king
+An unmoved king and an unmoved rook of the same color on the same rank are said to have castling rights.[12]
+
+En passant
+Main article: En passant
+Three images showing en passant. First, a white pawn moves from the a2-square to a4; then, the black pawn moves from b4 to a3; finally, the white pawn on a4 is removed
+When a pawn advances two squares on its initial move and ends the turn adjacent to an enemy pawn on the same rank, it may be captured en passant by the enemy pawn as if it had moved only one square. This capture is legal only on the move immediately following the pawn's advance. The diagrams demonstrate an instance of this: if the white pawn moves from a2 to a4, the black pawn on b4 can capture it en passant, moving from b4 to a3, and the white pawn on a4 is removed from the board.[13]
+
+Promotion
+Main article: Promotion (chess)
+If a player advances a pawn to its eighth rank, the pawn is then promoted (converted) to a queen, rook, bishop, or knight of the same color at the choice of the player (a queen is most common). The choice is not limited to previously captured pieces. Hence it is theoretically possible for a player to have up to nine queens or up to ten rooks, bishops, or knights if all of the player's pawns are promoted.[14]
+
+Check
+Main article: Check (chess)
+a	b	c	d	e	f	g	h	
+8	
+d6 black kingf6 black bishoph5 black knightf3 white kingg3 white bishop
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+Black's king is in check. It can get out of check by moving to an unattacked square. Black can also parry the check by moving the bishop to e5 or the knight to f4 to block the check, or by capturing the white bishop with the knight.[15]
+A king is in check when it is under attack by at least one enemy piece. A piece unable to move because it would place its own king in check (it is pinned against its own king) may still deliver check to the opposing player.[16]
+
+It is illegal to make a move that places or leaves one's king in check. The possible ways to get out of check are:
+
+Move the king to a square where it is not in check.
+Capture the checking piece.
+Interpose a piece between the king and the opponent's threatening piece (block the check).[17][18][19]
+In informal games, it is customary to announce "check" when making a move that puts the opponent's king in check. In formal competitions, however, check is rarely announced.[20]
+
+End of the game
+Checkmate
+Main article: Checkmate
+a	b	c	d	e	f	g	h	
+8	
+e8 black kingh5 black rookf2 white pawng2 white pawnf1 white rookg1 white kingh1 black queen
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+White is checkmated; Black wins.[21]
+If a player's king is placed in check and there is no legal move that player can make to escape check, then the king is said to be checkmated, the game ends, and that player loses.[22] Unlike the other pieces, the king is never captured.[23]
+
+The diagram shows an example checkmate position. The white king is threatened by the black queen; the empty square to which the king could move is also threatened; and the king cannot capture the queen, because it would then be in check by the rook.
+
+Resigning
+Either player may resign at any time, conceding the game to the opponent.[24] To indicate resignation, the player may say "I resign". Tipping over the king also indicates resignation, but it should be distinguished from accidentally knocking the king over. Stopping both clocks is not an indication of resigning, since clocks can be stopped to call the arbiter. An offer of a handshake is sometimes used, but it could be mistaken for a draw offer.[25]
+
+Under FIDE Laws, a resignation by one player results in a draw if their opponent has no way to checkmate them via any series of legal moves, or a loss by that player otherwise.[24]
+
+Draws
+Main article: Draw (chess)
+a	b	c	d	e	f	g	h	
+8	
+c8 black kingd5 white queene5 white bishope3 white king
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+Black to move is in stalemate, since Black's king has no legal move, and is not in check. The game is drawn.[26]
+The game ends in a draw if any of these conditions occur:[27]
+
+The player to move is not in check and has no legal move. This situation is called a stalemate. An example of such a position is shown in the adjacent diagram.
+The game reaches a dead position.
+Both players agree to a draw after one of the players makes such an offer.
+In addition, in the FIDE rules, if a player has run out of time (see below), or has resigned, but the position is such that there is no way for the opponent to give checkmate by any series of legal moves, the game is a draw.[28]
+
+FIDE's competitive rules of play allow a player to claim a draw in either of two situations:
+
+Fifty moves have been made by each player without a capture or pawn movement (this is the fifty-move rule);[29]
+The same position has appeared three times (or has appeared twice and the player claiming the draw can force the third appearance); this is the threefold repetition rule.[30]
+These rules help prevent games from being extended indefinitely in tournaments.
+
+There is no longer a rule specifically defining perpetual check as a draw. In such a situation, either the threefold repetition rule or the fifty-move rule will eventually come into effect. More often, the players will simply agree to a draw.[31][32]
+
+Dead position
+Example of a dead position[33]
+a	b	c	d	e	f	g	h	
+8	
+c7 black bishope7 black kingh6 black pawna5 black pawnc5 black pawne5 black pawng5 black pawnh5 white pawna4 white pawnb4 black pawnc4 white pawne4 white pawng4 white pawnb3 white pawnd3 white bishope3 white king
+8
+7	7
+6	6
+5	5
+4	4
+3	3
+2	2
+1	1
+a	b	c	d	e	f	g	h	
+White has just played h5; neither side can open up the position.
+A dead position is defined as a position where neither player can checkmate their opponent's king by any sequence of legal moves.[34] According to the rules of chess the game is immediately terminated the moment a dead position appears on the board.
+
+Some basic endings are always dead positions; for example:
+
+king against king;
+king against king and bishop;
+king against king and knight.
+Blocked positions can arise in which progress is impossible for either side, such as the diagrammed position;[33] these too are dead positions.
+
+USCF rules, for games played under a time control that does not include delay or increment, allow draw claims for "insufficient losing chances".[35] For example, if each player has only a king and a knight, checkmate is only achievable with the co-operation of both players, even if it is not a dead position.
+
+Touch-move rule
+Main article: Touch-move rule
+The touch-move rule is a fundamental principle in chess, ensuring that players commit to moves deliberated mentally, without physically experimenting on the board. According to this rule, a player who touches a piece with the intention of moving it must then move it if legally possible. This rule also applies to capturing: a player who touches an opponent's piece must capture it if a legal capture is available. Special considerations apply for castling and pawn promotion, reflecting their unique nature in the game.[36]
+
+A player who touches a piece to adjust its physical position within a square must first alert the opponent by saying J'adoube or "I adjust".[37][b] Once the game has started, only the player with the move may touch the pieces on the board.[
